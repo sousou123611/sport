@@ -1,0 +1,309 @@
+header
+{
+	background-color: white;
+}
+html
+{
+	background-color: #d9d9da;
+}
+section
+{
+		padding-left: 100px;
+		padding-right: 100px;
+	font-weight: normal;
+	color:#444;
+	font-size: 1em;
+	text-decoration: none;
+	font-family:  "Lucida sans", sans-serif;
+
+}
+body
+{
+	
+	margin: auto;
+	clear: both;
+
+	background-color: white;
+	color: black;
+    width: 1150px;
+	font-family: "Times New Roman", Arial, Calibri, "Trebuchet MS", sans-serif;
+	}
+	header h1
+{
+	font-family:  "Arial black" , sans-serif;
+
+	font-weight: normal;
+	margin: auto;
+	text-transform: uppercase;
+	font-size: 2.8em;
+	text-align: center;
+}
+@media screen and (max-width: 1500px)
+{
+
+	header h1
+{
+	font-family:  "Arial black" ,Times, sans-serif;
+
+	font-weight: normal;
+	margin: auto;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 2.8em;
+}
+.hp
+{
+	font-family:   "Lucida sans", sans-serif;
+
+	text-transform: uppercase;
+	font-weight: normal;
+text-align: center;	
+	color: gray;
+margin: auto;
+font-size: 1.5em;
+
+}
+	
+	footer
+	{
+		width: 1150px;
+		font-size: 1.1em;
+	}
+	li
+{
+	text-align: left;
+	color: #04080842;
+}
+	nav ul
+{
+	list-style-color: rgb(0,64,128);
+	background-color: #0c80a1;
+font-family:  "Lucida sans", sans-serif;
+text-align: left;
+display: flex;
+justify-content: space-around;
+text-transform: uppercase;
+padding: 16px 24px;
+font-size: 1.3em;
+
+}
+
+	section
+{
+		padding-left: 100px;
+	font-weight: normal;
+	color:#444;
+	font-size: 1em;
+	padding-right: 100px;
+	text-decoration: none;
+	font-family:  "Lucida sans", sans-serif;
+
+}
+
+}
+
+
+@media screen and (max-height: 1500px)
+{
+
+	.hp
+{
+	font-family:  "Lucida sans", sans-serif;
+
+	text-transform: uppercase;
+	font-weight: normal;
+text-align: center;	
+	color: gray;
+margin: auto;
+font-size: 1.5em;
+}
+	nav ul
+{
+	list-style-color: rgb(0,64,128);
+	background-color: #0c80a1;
+font-family:  "Lucida sans", sans-serif;
+text-align: left;
+display: flex;
+justify-content: space-around;
+text-transform: uppercase;
+padding: 16px 24px;
+font-size: 1.3em;
+
+
+
+}
+li
+{
+	color: #04080842;
+	text-align: left;
+}
+
+header h1
+{
+	font-family:"Arial bold" , sans-serif;
+
+
+	font-weight: normal;
+	margin: auto;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 2.8em;
+}
+	footer
+	{
+		width: 1150px;
+		font-size: 1.1em;
+	}
+
+	section
+{
+		padding-left: 100px;
+		padding-right: 100px;
+	font-weight: normal;
+	color:#444;
+	font-size: 1em;
+	text-decoration: none;
+	font-family:  "Lucida sans", sans-serif;
+}
+}
+
+.hp
+{
+	font-family:   "Lucida sans", sans-serif;
+
+	text-transform: uppercase;
+	font-weight: normal;
+text-align: center;	
+	color: gray;
+margin: auto;
+font-size: 1.5em;
+}
+#logo
+{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+#logo img
+{
+	width:500px;
+	height:500px;
+	justify-content: center;
+	flex-direction: row;
+	display: flex;
+	margin: auto;
+}
+nav ul
+{
+	list-style-color: rgb(0,64,128);
+	background-color: #0c80a1;
+font-family:  "Lucida sans", sans-serif;
+text-align: left;
+display: flex;
+justify-content: space-around;
+text-transform: uppercase;
+padding: 16px 24px;
+font-size: 1.3em;
+
+}
+li
+{
+	text-align: left;
+	color: #04080842;
+}
+nav a
+{
+	display: flex;
+	flex-direction: row;
+	text-decoration: none;
+	color: white;
+	font-weight: normal;
+	font-size: 1.3em;
+	}
+	nav a:hover
+	{
+		text-decoration: underline;
+		color:white;
+	}
+	nav a:active
+	{
+		color: rgb(0,64,128);
+	}
+	#titre
+{
+	margin:auto;
+	text-align: center;
+font-style: none;
+color: gray;
+font-family: "Lucida sans", sans-serif;
+font-size: 2em;
+padding-top: 0x;
+padding-left: 3px;
+}
+.v
+{
+	padding-bottom: 30px;
+}
+.im
+{
+	text-align: center;
+	margin:auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.ap
+{
+	font-weight: bold;
+	padding-bottom: 30px;
+}
+.vv
+{
+	padding-bottom: 30px;
+}
+.mumu
+{
+	font-weight: bold;
+	padding-bottom: 30px;
+}
+.p
+{
+	font-weight: bold;
+}
+footer
+{
+	background-color: #444;
+	color: white;
+	width: 1150px;
+}
+ a:hover
+	{
+		text-decoration: underline;
+		color:white;
+	}
+	 a:active
+	{
+		color: white;
+	}
+	.qm
+	{
+		padding-bottom: 20px;
+		margin-bottom: 20px;
+		text-align: center;
+	}
+a
+{
+	color:white;
+	margin-left: 50px;
+	
+}
+.pieds
+{
+	font-weight: bold;
+	font-size: 1em;
+	margin-left: 50px;
+}
+.pppp
+{
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+}
